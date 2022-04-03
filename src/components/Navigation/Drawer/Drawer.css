@@ -1,4 +1,4 @@
-.Drawer{
+.Drawer {
     position: fixed;
     left: 0;
     top: 0;
@@ -13,7 +13,7 @@
     z-index: 90;
 }
 
-.Drawer.close{
+.Drawer.close {
     transform: translateX(-300px);
 }
 
@@ -35,9 +35,9 @@
     position: relative;
     padding: 0 20px 10px 20px;
     transition: opacity .3s;
-
 }
 
 .Drawer ul li a:hover, .active {
     opacity: .7;
 }
+

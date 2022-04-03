@@ -1,4 +1,4 @@
-.Layout{
+.Layout {
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -7,5 +7,5 @@
 .Layout main {
     display: flex;
     flex-direction: column;
-    flex-grow: 1
+    flex-grow: 1;
 }
